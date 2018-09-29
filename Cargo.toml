@@ -2,6 +2,6 @@
 
 members = [
     "ip_address",
-    "print_working_directory",
-    "list_files",
+    "pwd",
+    "ls",
 ]

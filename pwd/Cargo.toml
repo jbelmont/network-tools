@@ -1,5 +1,5 @@
 [package]
-name = "print_working_directory"
+name = "pwd"
 version = "0.1.0"
 authors = ["Jean-Marcel Belmont <jbelmont@foodlogiq.com>"]
 

@@ -1,5 +1,5 @@
 [package]
-name = "list_files"
+name = "ls"
 version = "0.1.0"
 authors = ["Jean-Marcel Belmont <jbelmont@foodlogiq.com>"]
 
