@@ -4,4 +4,6 @@ members = [
     "ip_address",
     "pwd",
     "ls",
+    "cat",
+    "cp",
 ]
